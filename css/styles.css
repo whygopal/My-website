@@ -1,0 +1,146 @@
+body {
+  color: #212121;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+}
+
+h1 {
+  width: 100%;
+  margin: 0 0 auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+  color: #FF4B5C;
+}
+
+h2 {
+  font-family: 'Merriweather', sans-serif;
+  color: #FF4B5C;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+  color: #FF4B5C;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FF4B5C;
+  border-width: 5px;
+  width: 5%;
+  margin: 75px auto;
+}
+a{
+  margin:10px 20px;
+}
+a:hover{
+  color: #f7faf9;
+}
+
+.p1 {
+  font-size: 1.5rem;
+  color: #FF4B5C;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #056674;
+  position: relative;
+  padding-top: 180px;
+}
+
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.deutsch-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 130px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 250px;
+}
+
+.btn {
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+  border-radius: 18px;
+  height: 0;
+  line-height: 0;
+  color: #FF4B5C;
+  font-family: 'Montserrat', serif;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  border-style-hover: solid;
+  border-width-hover: 1;
+  background-color: #056674;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #1692A3;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.footer-link {
+  font-family: 'Merriweather', sans-serif;
+  color: #FF4B5C;
+  text-decoration: none;
+}
+
+.my-image {
+  border-radius: 50%;
+}
+
+.contact-me {
+  margin: 75px auto;
+}
+
+.bottom-container {
+  padding-top: 30px;
+  background-color: #056674;
+  padding-bottom: 20px;
+}
+
+.middle-container {
+  margin: 100px 0px 50px 0px;
+}
+
+.profile {
+  padding-bottom: 5px;
+}
+.copyright{
+  font-size: 12px;
+  color:#c8cfcc;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
