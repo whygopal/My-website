@@ -79,6 +79,7 @@ a:hover{
 .bottom-cloud {
   position: absolute;
   bottom: 250px;
+  left: 300px;
 }
 
 .btn {
